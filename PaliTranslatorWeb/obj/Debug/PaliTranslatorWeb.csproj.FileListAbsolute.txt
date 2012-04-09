@@ -1,0 +1,6 @@
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslatorWeb\PaliTranslatorWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslatorWeb\PaliTranslatorWeb\bin\PaliTranslatorWeb.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslatorWeb\PaliTranslatorWeb\bin\PaliTranslatorWeb.pdb
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslatorWeb\PaliTranslatorWeb\bin\CST.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslatorWeb\PaliTranslatorWeb\obj\Debug\PaliTranslatorWeb.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\PaliTranslatorWeb\PaliTranslatorWeb\obj\Debug\PaliTranslatorWeb.pdb
